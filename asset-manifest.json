@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.a6072c41.css",
+    "main.js": "/reactportfolio/static/js/main.e1fc1117.js",
+    "static/media/campus.png": "/reactportfolio/static/media/campus.cfadcc3308179fa91c71.png",
+    "static/media/unacedemy.png": "/reactportfolio/static/media/unacedemy.7f79dee9620e7edfea97.png",
+    "static/media/mumpa.png": "/reactportfolio/static/media/mumpa.7ffe7e730cedcf49ebb5.png",
+    "static/media/info.png": "/reactportfolio/static/media/info.18549ceb5b10e6f83143.png",
+    "static/media/henkel.png": "/reactportfolio/static/media/henkel.e05f32fdb6de11e04baf.png",
+    "static/media/mercellus.png": "/reactportfolio/static/media/mercellus.631f4642cfd6b5da31a2.png",
+    "static/media/react.png": "/reactportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/heroImage1.jpeg": "/reactportfolio/static/media/heroImage1.7fed5b4f8d8dcbc05522.jpeg",
+    "static/media/node.png": "/reactportfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/reactportfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/reactportfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/reactportfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/reactportfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/reactportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/reactportfolio/index.html",
+    "main.a6072c41.css.map": "/reactportfolio/static/css/main.a6072c41.css.map",
+    "main.e1fc1117.js.map": "/reactportfolio/static/js/main.e1fc1117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6072c41.css",
+    "static/js/main.e1fc1117.js"
+  ]
+}

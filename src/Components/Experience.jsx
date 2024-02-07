@@ -79,7 +79,7 @@ const Experience = () => {
                 technologies.map(({id, src, title, style })=>{
                     return(
                         <div key={id} className={'shadow-md rounded-lg flex flex-col justify-center items-center py-4 ' + " " + style}>
-                            <img src={src} alt="image" className='rounded-md duration-300 hover:scale-110 w-[100px]'/>
+                            <img src={src} alt="eimage" className='rounded-md duration-300 hover:scale-110 w-[100px]'/>
                             <div className='flex justify-center items-center '>
                                 <span className='w-full m-4 '>{title}</span>
                             </div>

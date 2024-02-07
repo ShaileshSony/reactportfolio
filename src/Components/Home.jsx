@@ -11,7 +11,7 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>
                     I'm a Front End Developer
                 </h2>
-                <p className='text-gray-500 py-4 max-w-md text-yellow-500'>I'm a software engineer and website developer and I've worked on a variety of websites that are featured in my portfolio.</p>
+                <p className='py-4 max-w-md text-yellow-500'>I'm a software engineer and website developer and I've worked on a variety of websites that are featured in my portfolio.</p>
 
                 <div>
                     <Link to='portfolio' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-b from-cyan-500 to-blue-500 cursor-pointer'>

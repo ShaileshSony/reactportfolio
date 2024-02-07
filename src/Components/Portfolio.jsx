@@ -1,7 +1,6 @@
 import React from 'react'
 import mumpa from '../assets/portfolio/mumpa.png'
 import mercellus from '../assets/portfolio/mercellus.png'
-import info from '../assets/portfolio/info.png'
 import henkel from '../assets/portfolio/henkel.png'
 import unacedemy from '../assets/portfolio/unacedemy.png'
 import campus from '../assets/portfolio/campus.png'
@@ -49,7 +48,7 @@ const Portfolio = () => {
             {/* structure of top heading */}
             <div className='pb-5'>
                 <p className='text-4xl font-bold inline border-b-4 border-yellow-500 text-yellow-500'>Portfolio</p>
-                <p className='py-6 pb-2 text-xl'>Check out some of my <span className='text-yellow-500'>Work</span> are here</p>
+                <p className='py-6 pb-2 text-xl'>Check out some of my <span className='text-yellow-500'>Work</span> here</p>
             </div>
             {/* structure of top heading end */}
             
@@ -59,10 +58,10 @@ const Portfolio = () => {
                 portfolio.map(({id, src, url})=>{
                     return(
                         <div key={id} className='shadow-md shadow-gray-600 rounded-lg  '>
-                            <img src={src} alt="image" className='rounded-md duration-300  hover:scale-105 w-full '/>
+                            <img src={src} alt="pimage" className='rounded-md duration-300  hover:scale-105 w-full '/>
                             <div className='flex justify-center items-center '>
                                 {/* <button className='w-1/2 px-6 py-1 m-2 '></button> */}
-                                <a href={url} target='_blank'>
+                                <a href={url} target='_blank' rel="noreferrer">
                                 <button className='w-full px-6 py-1 m-2'>Show Project</button>
                                 </a>
                             </div>

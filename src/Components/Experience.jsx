@@ -69,7 +69,7 @@ const Experience = () => {
             {/* structure of top heading */}
             <div className=' pb-5'>
                 <p className='text-4xl font-bold inline border-b-4 border-yellow-500 text-yellow-500 '>Experience</p>
-                <p className='py-6 pb-2 text-xl'>I am experties in these <span className='text-yellow-500 '>Technologies</span> </p>
+                <p className='py-6 pb-2 text-xl'>I have experience in these  <span className='text-yellow-500 '>Technologies</span> </p>
             </div>
             {/* structure of top heading end */}
             

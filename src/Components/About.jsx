@@ -10,7 +10,7 @@ const About = () => {
             </p>
         </div>
         <p className='text-lg '>
-        Hello, my name is Shailesh and I graduated in 2015 from BCA in SHUATS University Prayagraj (Allahabad) and I started working as a lab instructor in United Engineering College, after that, I came to IT industry where I started working as a website developer. And I have 2.5 years of experience as a website developer in IT industries.
+        Hello, my name is Shailesh and I graduated in 2015 from <b>BCA in SHUATS University Prayagraj (Allahabad)</b> and I started working as a lab instructor in United Engineering College, after that, I came to IT industry where I started working as a website developer. And I have 3 years of experience as a website developer in IT industries.
         </p><br />
         <p className='text-lg' >I have created many websites till now and the technologies I used to create them are HTML, CSS, Bootstrap, jQuery, JavaScript, and Reactjs. some of the popular websites are www.nutraj.com, www.mumpa.in, www.infocomm-india.com.</p>
        </div> 

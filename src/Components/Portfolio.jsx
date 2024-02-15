@@ -5,6 +5,7 @@ import henkel from '../assets/portfolio/henkel.png'
 import unacedemy from '../assets/portfolio/unacedemy.png'
 import campus from '../assets/portfolio/campus.png'
 import react from '../assets/portfolio/react.png'
+import jackjohns from '../assets/portfolio/jackjohns.png'
 
 const Portfolio = () => {
    
@@ -38,7 +39,12 @@ const Portfolio = () => {
     {
         id: 6,
         src: react,
-        url: 'https://www.campusshoes.com/'
+        url: 'https://shaileshsony.github.io/reactportfolio/'
+    },
+    {
+        id: 7,
+        src: jackjohns,
+        url: 'https://www.jackjones.in/'
     },
   ]
     

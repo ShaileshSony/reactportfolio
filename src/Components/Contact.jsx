@@ -3,8 +3,8 @@ import { FaTelegramPlane } from "react-icons/fa";
 
 const Contact = () => {
   return (
-    <div name="contact" className='w-full h-screen bg-gradient-to-b from-black to-gray-800  py-20 md:pt-0  md:pb-9 lg:pt-24  '>
-        <div className='max-w-screen-lg px-4 w-full h-full flex flex-col justify-center text-white mx-auto lg:px-0'>
+    <div name="contact" className='w-full bg-gradient-to-b from-black to-gray-800  py-32 md:pb-9 lg:pt-24  '>
+        <div className='max-w-screen-lg px-3 w-full h-full flex flex-col justify-center text-white mx-auto lg:px-3'>
             <div className='pb-5 mb-5'>
                 <p className='text-4xl font-bold inline border-b-4 border-yellow-500 text-yellow-500 '>Contact</p>
                 <p className='py-6 pb-2 text-xl'>Submit the form bellow to get in <span className='text-yellow-500'>Touch</span> with me</p>

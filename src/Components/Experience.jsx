@@ -65,7 +65,7 @@ const Experience = () => {
     
   return (
     <div name="experience" className='bg-gradient-to-b from-gray-800 to-black w-full text-white pt-32 md:pb-0 lg:py-28'>
-        <div className='max-w-screen-lg px-4 mx-auto flex flex-col justify-center w-full h-full lg:px-0'>
+        <div className='max-w-screen-lg px-3 mx-auto flex flex-col justify-center w-full h-full lg:px-3'>
             {/* structure of top heading */}
             <div className=' pb-5'>
                 <p className='text-4xl font-bold inline border-b-4 border-yellow-500 text-yellow-500 '>Experience</p>
